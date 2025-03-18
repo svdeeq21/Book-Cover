@@ -7,6 +7,10 @@ body{
     width: 300px;
     height: 550px;
     border-radius: 10px;
+    margin: 50px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: #effffe;
     box-shadow: 1px 1px 12px #000;
     transform: preserve-3d;
